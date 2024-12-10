@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked error in Node.js: the silent failure of a server attempting to bind to an already-occupied port.  The `bug.js` file contains the erroneous code. `bugSolution.js` shows the corrected version.  Proper error handling is crucial for robust applications.
